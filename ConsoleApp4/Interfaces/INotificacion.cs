@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4.Interfaces
 {
+///jajajajajajajajajajajaja
     public interface INotificacion
     {
         string EnviarNoficacion(string message);
