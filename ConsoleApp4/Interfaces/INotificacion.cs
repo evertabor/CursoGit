@@ -10,4 +10,8 @@ namespace ConsoleApp4.Interfaces
     {
         string EnviarNoficacion(string message);
     }
+    public interface IMyinterfaz
+    {
+        string Welcome(string hola);
+    }
 }
